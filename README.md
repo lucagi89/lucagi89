@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucagi89
 - 👀 I’m interested in Web and Blockchain development
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently learning HTML, CSS and Javascript
 - 💞️ I’m looking to collaborate on amazing projects in the near future
 - 📫 You can reach me to my email address: soundex89@gmail.com
 
