@@ -2,7 +2,7 @@
 ## 🕸️ I'm a Web Developer based in London(UK)
 - 🌱 I’m currently a student at Le Wagon Bootcamp learning Fullstack Web Development
 - 💞️ I’m looking to collaborate on amazing projects in the near future
-- 🌍 I'm also interested to learn and work with Blockchain and AI
+- 🌍 I'm also interested in working with Blockchain and AI
 - 📫 You can reach me to my email address: luca.gattamelata.dev@gmail.com
 - 👱🏻‍♂️ Pronouns: He/Him
 # My Skills
