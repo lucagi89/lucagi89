@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on amazing projects in the near future
 - 📫 You can reach me to my email address: luca.gattamelata.dev@gmail.com
 # My Skills
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <!---
 lucagi89/lucagi89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
