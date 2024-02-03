@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @lucagi89
+# - 👋 Hi, I’m Luke
+- 🕸️ I'm a Web Developer based in London(UK), originally from Rome(Italy)
 - 👀 I’m interested in Web and Blockchain development
 - 🌱 I’m currently a student at Le Wagon Bootcamp
 - 💞️ I’m looking to collaborate on amazing projects in the near future
