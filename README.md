@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Luke 🎵
-## 🕸️ I'm a Web Developer based in London(UK), originally from Rome(Italy)
+## 🕸️ I'm a Web Developer based in London(UK)
 - 🌱 I’m currently a student at Le Wagon Bootcamp
 - 👀 I’m interested in Fullstack Web Development and Blockchain
 - 💞️ I’m looking to collaborate on amazing projects in the near future
