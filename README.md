@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on amazing projects in the near future
 - 🌍 I'm also interested in working with Blockchain and AI
 - 📫 You can reach me to my email address: luca.gattamelata.dev@gmail.com
-- 👱🏻‍♂️ Pronouns: He/Him
 # My Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,ruby,rails,sqlite,vscode,figma,git,github)](https://skillicons.dev)
 <!---
