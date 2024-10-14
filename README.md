@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Luke 🎵
 ## 🕸️ I'm a Web Developer based in London(UK)
-- 💻 I live with Html, Css, Javascript and React.
+- 💻 I talk and dream with Html, Css, Javascript and React.
 - 💞️ I’m looking to collaborate on amazing projects in the near future
 - 🌍 I'm also interested in working with Blockchain and AI
 - 📫 You can reach me to my email address: luca.gattamelata.dev@gmail.com
