@@ -5,7 +5,7 @@
 - 🌍 I'm also interested in working with Blockchain and AI
 - 📫 You can reach me to my email address: luca.gattamelata.dev@gmail.com
 # My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,next,rails,vscode,figma,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,next,typescript,rails,vscode,figma,git,github)](https://skillicons.dev)
 <!---
 lucagi89/lucagi89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
